@@ -1,0 +1,19 @@
+{
+    "SubscriptionName":"8b3d1a9c-065c-4d21-ade9-fce8d1d92b07",
+    "ResourceGroup":"DemoPurpose",
+    "Region":"SoutheastAsia",
+    "DataBaseServer":"cloudsqlproject",
+    "DataBaseName":"silver",
+    "DataBaseScript":"E:\\Upwork\\UpworkProject1\\demo.sql",
+    "DataBaseSchema":"Delta",
+    "UsersCSV":"E:\\Upwork\\UpworkProject1\\UserDB.csv",
+    "DBCSVs":
+    [
+        "E:\\sample2\\tables\\drivers_license.csv",
+        "E:\\sample2\\tables\\person.csv",
+        "E:\\sample2\\tables\\interview.csv",
+        "E:\\sample2\\tables\\facebook_event_checkin.csv",
+        "E:\\sample2\\tables\\get_fit_now_member.csv",
+        "E:\\sample2\\tables\\get_fit_now_check_in.csv"
+    ]
+}
